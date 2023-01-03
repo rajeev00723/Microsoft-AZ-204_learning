@@ -1,4 +1,4 @@
-# Data-Science-Educational-Resoruces
+# Microsoft-AZ204-Educational-Resoruces
 
 Data science resources that cover all the data science theoretical and practical skills.
 
